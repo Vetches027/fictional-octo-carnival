@@ -1,6 +1,7 @@
 # Empowering Communities for Equality: Education, Employment, Health, and Economic Opportunity
 
 ![image](https://github.com/user-attachments/assets/1380d113-0174-4468-b052-9ae80a559bba)
+
 by Elyzah Maasim
 
 # Empowering Education for All
@@ -16,8 +17,10 @@ This project aims to provide healthcare services to underserved populations, foc
 
 # Equal Employment for All
 ![image](https://github.com/user-attachments/assets/c9430d5d-ea4b-4467-b30a-b19c4cea23de)
+
 This initiative will partner with local businesses and government agencies to establish job training programs, internships, and job placement services that ensure individuals from disadvantaged groups have equal access to job opportunities. The project will focus on eliminating biases in hiring practices and promoting workplace diversity and inclusion.
 
 # Financial Literacy and Economic Empowerment
 This project aims to empower marginalized communities through financial literacy programs that teach budgeting, saving, investing, and accessing credit. It will also provide small business training and micro-financing opportunities to help individuals create their own businesses and achieve financial independence.
-![image](https://github.com/user-attachments/assets/1fb691b6-72c2-43c1-8bc2-2caf0133fad0)
+
+![image](https://github.com/user-attachments/assets/f1d1cae7-4efa-44b7-8309-4a4909f2686e)
